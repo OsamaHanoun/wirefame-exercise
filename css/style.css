@@ -50,7 +50,7 @@ margin-top: 0;
 font-weight: bold;}
 p{
     overflow: auto;
-    height: 282px;
+    height: 290px;
 
 }
 #text-div{
@@ -70,7 +70,7 @@ button{
     color:#DDD ;
     padding: 10px 50px;
     font-size: large;
-    margin: 10px 0;
+    margin: 22px 0;
     border-radius: 12px;
 }
 button:hover {
